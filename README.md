@@ -1,6 +1,6 @@
-# AtmosView Web Application
+# Simple Weather Web Application
 
-This repository hosts the code for a Simple Weather Web App, designed to fetch and display weather information based on user input. Utilizing HTML, CSS, and JavaScript, this project demonstrates how to interact with a weather API to retrieve data and update the web interface accordingly.
+This repository hosts the code for a simple weather web application called AtmosView, designed to fetch and display weather information based on user input. Utilizing HTML, CSS, and JavaScript, this project demonstrates how to interact with a weather API to retrieve data and update the web interface accordingly.
 
 ## Project Structure
 
